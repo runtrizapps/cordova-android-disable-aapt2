@@ -1,0 +1,24 @@
+{
+  "name": "cordova-android-disable-aapt2",
+  "version": "1.0.0",
+  "description": "Cordova/Phonegap plugin to disable AAPT2 resource processing",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runtrizapps/cordova-android-disable-aapt2.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "David Govea <david.govea@runtriz.com>",
+  "license": "WTFPL",
+  "engines": {
+    "cordovaDependencies": {
+      "1.0.0": { "cordova-android": ">=6.4.0"}
+    }
+  },
+  "bugs": {
+    "url": "https://github.com/runtrizapps/cordova-android-disable-aapt2/issues"
+  },
+  "homepage": "https://github.com/runtrizapps/cordova-android-disable-aapt2#readme"
+}
