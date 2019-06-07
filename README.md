@@ -1,6 +1,9 @@
 cordova-android-disable-aapt2
 =============================
 
+### Archived: AAPT2 can no longer be disabled using `android.enableAapt2`, and has been widely adopted. This plugin is no longer needed.
+
+
 This Cordova/Phonegap plugin for Android disables the [AAPT2 resource processing introduced with Gradle 3.0.0](https://developer.android.com/studio/build/gradle-plugin-3-0-0.html)
 
 # Purpose
